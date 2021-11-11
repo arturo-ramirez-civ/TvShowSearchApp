@@ -1,4 +1,8 @@
-
+/*
+* Name: Arturo Ramirez 
+* Task: Create application that uses AXIOS to GET data from a REST API. 
+* Date: October 01, 2021 
+*/
 
 const form = document.querySelector('#searchForm');
 form.addEventListener('submit', async function(e){
